@@ -1,0 +1,27 @@
+{
+  "name": "scan",
+  "version": "0.0.1",
+  "description": "node.js async directory scanner",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natomis-brad/scan"
+  },
+  "keywords": [
+    "node",
+    "directory",
+    "scanner"
+  ],
+  "author": "brad@natomis.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natomis-brad/scan/issues"
+  },
+  "homepage": "https://github.com/natomis-brad/scan",
+  "dependencies": {
+    "async": "~0.2.10"
+  }
+}
